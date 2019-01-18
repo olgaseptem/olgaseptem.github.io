@@ -1,0 +1,108 @@
+{
+  "mainElement": {
+    "value": "image",
+    "options": {
+      "image": {},
+      "timer": {},
+      "video": {}
+    }
+  },
+  "timer": {
+    "year": 0,
+    "month": 0,
+    "date": 0,
+    "hour": 0,
+    "minute": 0
+  },
+  "duration": 0,
+  "textEventStarted": "",
+  "textEventFinished": "",
+  "image": {
+    "src": "",
+    "mockup": {
+      "value": "product",
+      "options": {
+        "web": {},
+        "phone": {},
+        "product": {}
+      }
+    }
+  },
+  "video": {
+    "src": ""
+  },
+  "brand": "familybutton",
+  "header": "Сайт моей бусинки",
+  "text": "Малышка, напиши юзерстори ツ",
+  "button": {
+    "value": "link",
+    "options": {
+      "link": {},
+      "getEmail": {},
+      "file": {},
+      "code": {}
+    }
+  },
+  "link": {
+    "src": "https://cinemood.ru/",
+    "text": "или им напиши"
+  },
+  "getEmail": {
+    "mailchimpListId": "",
+    "mailchimpApiKey": "",
+    "text": ""
+  },
+  "file": {
+    "src": "",
+    "text": ""
+  },
+  "code": {
+    "script": ""
+  },
+  "phone": "",
+  "email": "",
+  "address": {
+    "text": "",
+    "latitude": 0,
+    "longtitude": 0
+  },
+  "socialLinks": {
+    "url1": "",
+    "url2": "",
+    "url3": "",
+    "url4": "",
+    "url5": ""
+  },
+  "background": {
+    "value": "gradient",
+    "options": {
+      "gradient": {
+        "colorOne": "#59D1D3",
+        "colorTwo": "#514CC2"
+      },
+      "image": {
+        "src": "",
+        "blackout": 0
+      },
+      "unsplash": {
+        "id": "",
+        "blackout": 0
+      },
+      "none": {
+        "baseColor": "#FFFFFF"
+      }
+    }
+  },
+  "logo": "",
+  "indexation": true,
+  "share": false,
+  "title": "",
+  "description": "",
+  "ogImage": "",
+  "favicon": "",
+  "websiteUrl": "",
+  "htmlInHead": "",
+  "htmlInFooter": "",
+  "clientGuid": "e1606a4e-eed4-4f59-b1fe-d01fba063277",
+  "created": 1547801054.5414
+}
